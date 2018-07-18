@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+@extends('layouts.master')
+
+@section('content')
+
+@endsection
+
+]]></content>
+<tabTrigger>ext</tabTrigger>
+<description>Extends tag in blade</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+public function __construct()
+{
+    ${1}
+}
+]]></content>
+<tabTrigger>_c</tabTrigger>
+<description>PHP Constructor</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>

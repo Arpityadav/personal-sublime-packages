@@ -1,0 +1,21 @@
+<snippet>
+<content><![CDATA[
+<template>
+    ${1}
+</template>
+
+<script>
+    export default{
+
+    }
+</script>
+
+<style lang="css">
+
+</style>
+
+]]></content>
+<tabTrigger>tempv</tabTrigger>
+<description>Basic vue template</description>
+<scope>text.html.vue</scope>
+</snippet>

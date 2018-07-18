@@ -1,0 +1,15 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+@extends(${1})
+
+@section('${2:content}')
+    ${3}
+@endsection
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>ext</tabTrigger>
+  <description>Blade Extends Snippet</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>embedding.php, text.html.basic</scope>
+</snippet>

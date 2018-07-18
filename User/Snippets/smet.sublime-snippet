@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+public static function ${1}(${2})
+{
+    ${3}
+}
+]]></content>
+<tabTrigger>smet</tabTrigger>
+<description>Static Public method</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, storage.modifier.php</scope>
+</snippet>

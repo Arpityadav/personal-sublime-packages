@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Browser Integration",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"ProjectManager",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"Theme - Spacegray",
+		"View In Browser",
+		"Vue Syntax Highlight"
+	]
+}

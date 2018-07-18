@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+@section($1'title')
+    $2
+@endsection
+]]></content>
+<tabTrigger>qwp</tabTrigger>
+<description>Section Tag in blade</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

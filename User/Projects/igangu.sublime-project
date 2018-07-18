@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\igangU",
+            "folder_exclude_patterns": ["node_modules"]
+		}
+	]
+}

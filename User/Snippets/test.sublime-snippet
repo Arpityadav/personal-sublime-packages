@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+ /** @test */
+public function it_${1}()
+{
+    ${2}
+}
+]]></content>
+<tabTrigger>test</tabTrigger>
+<description>Basic Test Method</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>

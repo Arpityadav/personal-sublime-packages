@@ -1,0 +1,7 @@
+[
+    { "keys": ["ctrl+d"], "command": "duplicate_line" },
+    { "keys": ["alt+e"], "command": "expand_fqcn" },
+    { "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["ctrl+i"], "command": "find_use" },
+    { "keys": ["alt+c"], "command": "insert_php_constructor_property" }
+]

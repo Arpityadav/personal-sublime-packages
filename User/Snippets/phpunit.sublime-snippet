@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<?php
+
+
+class ${1}Test extends PHPUnit_Framework_TestCase
+{
+    ${2}
+}
+
+]]></content>
+<tabTrigger>phpunit</tabTrigger>
+<description>PHPUnit template</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, punctuation.section.embedded.begin.php</scope>
+</snippet>

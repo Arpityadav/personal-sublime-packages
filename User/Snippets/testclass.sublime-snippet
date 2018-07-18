@@ -1,0 +1,23 @@
+<snippet>
+<content><![CDATA[
+<?php
+namespace Tests\Feature;
+
+use Tests\TestCase;
+use Illuminate\Foundation\Testing\WithFaker;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+
+class ${TM_FILENAME/(.+)\..+|.*/$1/:name} extends TestCase {
+
+    use RefreshDatabase;
+
+    /** @test */
+    public function it_$1() {
+        $2
+    }
+}
+]]></content>
+<tabTrigger>testclass</tabTrigger>
+<description>Laravel Test Class</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php</scope>
+</snippet>
